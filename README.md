@@ -1,2 +1,1 @@
-# GreyAtom
-Projects
+# Indpendent Projects
